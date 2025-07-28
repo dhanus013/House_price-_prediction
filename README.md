@@ -44,7 +44,7 @@ The predicted price helps buyers, sellers, and investors make informed decisions
 1. Clone this repository:
    
    git clone https://github.com/your-username/house-price-prediction-india.git
-   cd house-price-prediction-india
+cd house-price-prediction-india
    
 2.Install dependencies:
   pip install -r requirements.txt
